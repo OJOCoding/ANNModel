@@ -1,0 +1,10 @@
+In the epoch 0 the loss was calculated at: 0.3038966387979606
+In the epoch 100 the loss was calculated at: 0.06288089211045472
+In the epoch 200 the loss was calculated at: 0.005854834574144681
+In the epoch 300 the loss was calculated at: 0.002599262684869006
+In the epoch 400 the loss was calculated at: 0.0016654991029796528
+In the epoch 500 the loss was calculated at: 0.0012261833980945277
+In the epoch 600 the loss was calculated at: 0.0009710029423451568
+In the epoch 700 the loss was calculated at: 0.0008041940523007022
+In the epoch 800 the loss was calculated at: 0.0006865718017273439
+In the epoch 900 the loss was calculated at: 0.0005991397524780404
